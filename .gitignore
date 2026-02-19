@@ -40,7 +40,8 @@ bld/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-*.code-workspace
+# Allow workspace files
+!*.code-workspace
 
 # Visual Studio profiler
 *.psess
