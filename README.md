@@ -2,6 +2,8 @@
 
 A modern, full-stack web application for efficient inventory and stock management, built with .NET 8.0 Web API backend and Vue.js 3 frontend.
 
+> **Note**: This project is a Web Technologies assignment inspired by the TaskBuddy project architecture and best practices.
+
 ## 📚 Documentation
 
 This project follows modern web development best practices and includes comprehensive documentation:
