@@ -166,12 +166,12 @@ This is an educational project. Contributions and improvements are welcome!
 
 ## 📄 License
 
-This project is created for educational purposes as part of the Web Technologies & Modern Frontend Architectures course.
+This project is a Web Technologies & Modern Frontend Architectures course.
 
 ## 📞 Support
 
-For questions or issues, please refer to the documentation files or contact the development team.
+For questions or issues, refeer documentation files or contact us 0786421600.
 
 ---
 
-**Built with ❤️ for modern web development education**
+**Assignment 1 that is reffered to task buddy **
